@@ -2,7 +2,7 @@
 
 把 AI 创作工具，做成能直接用的东西。
 
-网站：https://ai-creation-platform.pages.dev/
+网站：https://xingxuan-platform.pages.dev/
 
 ![AI 创作平台](assets/cover.png)
 
