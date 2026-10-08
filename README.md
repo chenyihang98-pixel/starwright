@@ -17,7 +17,7 @@
 
 ## 更新
 
-每次网站有变化都会记在 [更新记录](CHANGELOG.md) 里。问题与建议欢迎到 [Issues](https://github.com/chenyihang98-pixel/platform-site/issues) 提出。
+每次网站有变化都会记在 [更新记录](CHANGELOG.md) 里。问题与建议欢迎到 [Issues](https://github.com/chenyihang98-pixel/starwright/issues) 提出。
 
 ---
 
