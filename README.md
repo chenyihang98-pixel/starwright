@@ -19,7 +19,7 @@
 
 本仓库用于公开网站介绍、链接与更新记录，不包含网站源码。每次网站有变化都会记在 [更新记录](CHANGELOG.md) 里；未发布的开发进度会单独标明，不代表网站已经上线这些功能。
 
-星璇 0.3.2 已完成本轮 13 项复审修复，继续推进桌宠与站宠联动、资源优化和比例修复。站宠更新仍在开发分支等待合并，尚未部署到正式网站；当前桌宠公开下载仍为 v0.2.0。详见更新记录的“未发布”部分，以及公开桌宠仓库的 [性能与比例审查](https://github.com/chenyihang98-pixel/andromeda-desktop-pet/blob/main/docs/PERFORMANCE-0.3.1.md) 和 [0.3.2 复审验证](https://github.com/chenyihang98-pixel/andromeda-desktop-pet/blob/main/docs/VALIDATION-0.3.2.md)。
+星璇站宠 **0.3.2 已于 2026-10-22 上线**。新版提供网站导览、工具搜索、可选外观与阅读彩蛋，并改进小屏显示、输入避让和后台资源管理。站宠偏好仍保存在本机浏览器，没有新增账号登录或云同步。当前 Windows 桌宠公开下载仍为 **v0.2.0**，站宠版本不代表桌宠安装包已经更新。详见 [更新记录](CHANGELOG.md) 与公开桌宠仓库的 [网站部署验证](https://github.com/chenyihang98-pixel/andromeda-desktop-pet/blob/main/docs/SITE-DEPLOYMENT-0.3.2.md)。
 
 问题与建议欢迎到 [Issues](https://github.com/chenyihang98-pixel/starwright/issues) 提出。
 
